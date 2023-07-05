@@ -7,4 +7,4 @@
 - Marisol Rodríguez Arcos
 - Astrid Jocelyn Mora Rivera
 
-Tareas realizados durante la materia.
+Tareas realizadas durante la materia.

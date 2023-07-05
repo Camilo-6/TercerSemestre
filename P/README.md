@@ -7,4 +7,4 @@
 - Brian Pérez Gutiérrez
 - Miguel Angel Fernández Castresana
 
-Tareas realizados durante la materia.
+Tareas realizadas durante la materia.
