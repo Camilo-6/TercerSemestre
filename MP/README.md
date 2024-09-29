@@ -1,4 +1,4 @@
-# Estructuras de Datos
+# Modelado y Programacion
 
 ### Profesor: Rosa Victoria Villa Padilla
 
